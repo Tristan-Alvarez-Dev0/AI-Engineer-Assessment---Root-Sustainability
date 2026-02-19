@@ -1,0 +1,11 @@
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+.idea/
+node_modules/
+.DS_Store
+.env
+*.db
+*.zip
