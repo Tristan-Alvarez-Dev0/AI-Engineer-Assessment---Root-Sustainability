@@ -40,11 +40,14 @@ mapbox_client = MapboxClient()
 
 def score(address: str, matched_address: str) -> float:
     similarity_score = address_similarity(address, matched_address)
-    return float(similarity_score)
+    return similarity_score.score
 
 
-def lookup_and_score(address: str) -> tuple[str, float]:
+def lookup_and_score(address: str) -> tuple:
     matched_address = mapbox_client.geocode_best_match(address)
+    if matched_address is None:
+        return "", 0
+
     similarity_score = score(address, matched_address)
     return matched_address, similarity_score
 
@@ -79,7 +82,7 @@ def refresh_addresses(session: DBSession, payload: AddressesRefresh):
         address.matched_address = match
         address.match_score = score
     session.commit()
-    return
+    return [address.to_pydantic() for address in addresses]
 
 @app.post("/addresses/{id}", response_model=Address, status_code=201)
 def update_address(session: DBSession, id: int, payload: AddressUpdate) -> Address:

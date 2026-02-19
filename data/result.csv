@@ -1,0 +1,120 @@
+address,matched_address,similarity_score
+"Bangalore, India","bengaluru, karnataka, india",0.587
+"Berlin, Germany","berlin, germany",1.0
+"Shenzhen, China","shenzhen shi, guangdong, china",0.738
+"78 Havenstraat, Rotterdam, NL","havenstraat 78, 3024 sh rotterdam, netherlands",0.925
+"Paris, France","paris, france",1.0
+"Amsterdam, Netherlands","amsterdam, north holland, netherlands",0.788
+"Sulzauer Straße 10, Stuttgart, Duitsland","sulzauer straße 10, 70563 stuttgart, germany",0.811
+"Sörgelstr. 3, München, Germany","sorgelstraße 3, 81477 munchen, germany",0.801
+"Uhlandstraße 20, Wimsheim, Duitsland","uhlandstraße 20, 71299 wimsheim, germany",0.808
+"Spadinalaan 688, Amsterdam, The Netherlands","spadinalaan 688, 1031 kb amsterdam, netherlands",0.858
+"Pfarrstr. 27, Lauda-Königshofen, Duitsland","pfarrstraße 27, 97922 lauda-konigshofen, germany",0.747
+"Ostendstraße 4, Weilheim i.OB, Germany","ostendstraße 4, 82362 weilheim in oberbayern, germany",0.832
+"Middenweg 45, Haarlem, The Netherlands","middenweg 45, 2024 xa haarlem, netherlands",0.857
+"Oranienstraße 147, Oberhausen, Germany","oranienstraße 147, 46147 oberhausen, germany",0.866
+"Kapellenweg 95, Stuttgart, Duitsland","kapellenweg 95, 70378 stuttgart, germany",0.808
+"Leeuwerikstraat 37, Goor, The Netherlands","leeuwerikstraat 37, 7471 gv goor, netherlands",0.858
+"Wolfgang-Borchert Str. 6, Toenisvorst, Germany","wolfgang-borchert-straße 6, 47918 tonisvorst, germany",0.76
+"Rue des Blés 57, Liège, België","rue des bles 57, 4432 ans, liege, belgium",0.715
+"Gildenring 29, BUNNIK, The Netherlands","gildenring 29, 3981 jd bunnik, netherlands",0.857
+"Riouwstraat 81B, Amsterdam, Nederland","riouwstraat 81b, 1094 xj amsterdam, netherlands",0.968
+"Van Den Boetzelaarstraat 1, Haelen, Nederland","van den boetzelaarstraat 1, 6081 br haelen, netherlands",0.78
+"Klarastr. 10, Munich, Germany","klarastraße 10, 80636 munchen, germany",0.768
+"gustav-klemme-weg 5, willich, Germany","gustav-klemme-weg 5, 47877 willich, germany",0.866
+"Laan van Nieuw Oosteinde 177, Voorburg, Nederland","laan van nieuw oosteinde 177, 2274 ga voorburg, netherlands",0.973
+"101 Rue Sergent Blandan, Nancy, Frankrijk","101 rue du sergent blandan, 54000 nancy, france",0.824
+"Am haanes 1a, Linden/leihgestern, Duitsland","am haanes 1a, 35440 linden, germany",0.73
+"Am Gehrkamp 35 a, Lehrte, Germany","am gehrkamp 35, 31275 lehrte, germany",0.853
+"Javastraat 154 A, Amsterdam, The Netherlands","javastraat 154e, 1095 cl amsterdam, netherlands",0.872
+"Kloosterstraat 2 / 11, Diepenbeek, Belgium","kloosterstraat 2, 3590 diepenbeek, limburg, belgium",0.814
+"15 Rue de l’Industrie, 75015 Paris, France","15 rue de l industrie, 75013 paris, france",0.862
+"10 Korte Lakenstraat, Haarlem, Nederland","korte lakenstraat 10, 2011 zd haarlem, netherlands",0.834
+"Bestevaerstraat 15 aprt.nr. 1, Amsterdam, The Netherlands","bestevaerstraat 15-4, 1056 he amsterdam, netherlands",0.872
+"27 Parkstraße, Moers, Duitsland","parkstraße 27, 47445 moers, germany",0.787
+"Port of Rotterdam, Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.681
+"Rotterdam Central Station, Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.666
+Atlantic Ocean,"atlantic ocean street talomo, davao city, philippines",0.15
+"Amsterdam Airport Schiphol, 1118 AX Schiphol, Netherlands","1118 ap, schiphol, north holland, netherlands",0.297
+"Amsterdam Airport Schiphol, 1118 AX Amsterdam, Netherlands","1118 ap, schiphol, north holland, netherlands",0.297
+"Mumbai Port, Mumbai, Maharashtra, India","mumbai, maharashtra, india",0.889
+"Port of Santos, Santos, SP, Brazil","santos, sao paulo, brazil",0.7
+"Porto de Santos, Santos, SP, Brazil","santos, sao paulo, brazil",0.698
+"Charles de Gaulle Airport, Paris, France","paris, france",0.858
+"Fultonstraße 24/3, Wien, Austria","fultonstraße, 1210 vienna, austria",0.534
+"Schifflerstraat 4, Brunssum, Nederland","schiffelerstraat 4, 6441 cn brunssum, netherlands",0.824
+"Coolhavenstraat 37A, Rotterdam, The Netherlands","coolhavenstraat 37b, 3024 te rotterdam, netherlands",0.882
+"Mayerlei 232, Mortsel, België","mayerlei 232, 2640 mortsel, antwerp, belgium",0.8
+"Mumbai Port, Mumbai, India",part 400005 mumbai india,0.29
+"Brussels, Belgium","brussels-capital, belgium",0.334
+"Boxtel, Netherlands","boxtel, north brabant, netherlands",0.788
+"Nieuwpoorstraat 86B8, Amsterdam, The Netherlands","nieuwpoortstraat, 1055 rv amsterdam, netherlands",0.613
+"Dorpsstraat 38, Bilzen, België","dorpsstraat, 3740 bilzen, limburg, belgium",0.528
+"Avenida Oporto, 128, Nuevo Baztan, Spain","avenida de oporto 128, 28514 nuevo baztan, madrid, spain",0.798
+"Traunsteiner Straße 8-2, Freilassing, Duitsland","traunsteiner straße 8, 83395 freilassing, germany",0.67
+"Coimbra Train Station, Avenida Fernão de Magalhães, 3000-175 Coimbra, Portugal","avenida fernao de magalhaes, 3000-999 coimbra, coimbra, portugal",0.57
+"22 Zilverstraat, Antwerp, BE","zilverstraat 22, 2900 schoten, antwerp, belgium",0.704
+"10 Rue Verte, Lyon, FR","vert, yvelines, france",0.102
+"J.H. Leopoldhof 45, Weesp, The Netherlands","weesp, north holland, netherlands",0.256
+"120 Eco Park Road, Hamburg, DE","hamburg, germany",0.218
+"202 Logistics Street, Sloterdijk, 1014 AZ Amsterdam, Netherlands","1014 az, amsterdam, north holland, netherlands",0.347
+"Lisbon Port, Portugal","rua particular, 2680-128 camarate, lisbon, portugal",0.176
+"Port of Lisbon, Portugal","rua particular, 2680-128 camarate, lisbon, portugal",0.316
+"Lisbon Port, Avenida Infante Dom Henrique, 1400-206 Lisbon, Portugal","ciclovia avenida infante dom henrique, 1100-651 lisboa, lisbon, portugal",0.751
+"Porto Airport, Aeroporto Francisco Sá Carneiro, 4470-558 Maia, Portugal","avenida do aeroporto, 4470-558 moreira, porto, portugal",0.425
+"Lisbon Port, Avenida Infante Dom Henrique, 1400-200 Lisbon, Portugal","avenida infante dom henrique, 2780-060 oeiras, lisbon, portugal",0.668
+"Lisbon Port, 1000-000 Lisbon, Portugal","rua particular, 1170-290 lisboa, lisbon, portugal",0.351
+"Laak, Venlo","lark avenue, redwood city, california 94061, united states",0.229
+"Lisbon Airport, 1000-100 Lisbon, Portugal","lisboa, lisbon, portugal",0.506
+"Port of Rio de Janeiro, Brazil","rua particular, mesquita - rio de janeiro, 26587, brazil",0.211
+"Paris Charles de Gaulle Airport, France","paris, france",0.331
+"Mittelstrasse 222, Frose, Germany","mittelstraße 222, 06464 seeland, germany",0.725
+Meda,"medan, north sumatra, indonesia",0.434
+"Schlehenweg 13, Steinheim, Germany","schlehenweg 13, 33039 nieheim, germany",0.807
+"17 Elmwood Close, Hartstown, Ierland","17 elmwood close, blanchardstown, county dublin d15 yxr4, ireland",0.783
+"Mõisavälja 6, Raadi alevik, Estonia","moisavalja 6, 60534 vahi, estonia",0.777
+KOREA,south korea,0.05
+Korea,south korea,0.05
+"Zandstraat 4, Haasdonk, België","zandstraat 4, 3680 maaseik, limburg, belgium",0.732
+"Kanepi vald Mügra küla, Põlvamaa, Estonia","kanepi, polva, estonia",0.228
+"Rigastraat 398, Utrecht, The Netherlands","rigastraat 398, 3541 ed utrecht, netherlands",0.858
+"Rue de la meuse 21, Arlon, Belgium","rue de la meuse 21, 6700 arlon, luxembourg, belgium",0.83
+"18 St Annes Park, Turners Cross, Cork, Ireland","ross, county waterford, ireland",0.135
+"Spijkstraat 185, Sint-Amandsberg, Belgium","spijkstraat 185, 9040 gent, east flanders, belgium",0.725
+"Al.ken 47, Warszawa, Poland","falkenstraße 47, 03149 forst, germany",0.549
+"Spilhof, München, Germany","munchen, bavaria, germany",0.349
+"45 Lindenstraße, Berlin, DE","lindenstraße 45, 15907 lubben, germany",0.729
+"Shenzhen Bao'an International Airport, 1 Airport Rd, Bao'an District, Shenzhen, Guangdong 518128, China","518128, bao an qu, shenzhen shi, guangdong, china",0.277
+"Port of Shanghai, Shanghai, China","shanghai, china",0.858
+"Shenzhen Port, Nanshan District, Shenzhen, Guangdong 518054, China","nanshan qu, shenzhen shi, guangdong, china",0.348
+"Shenzhen International Port, Nanshan District, Shenzhen, Guangdong 518054, China","nanshan qu, shenzhen shi, guangdong, china",0.336
+"Rotterdam The Hague Airport, Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.666
+"Lisbon Portela Airport, 1000-102 Lisbon, Portugal","portela, lisbon, portugal",0.285
+"Francisco Sá Carneiro Airport, 4470-558 Maia, Portugal","rua doutor francisco sa carneiro, 4475-855 nogueira, porto, portugal",0.178
+"Delhi, India","delhi, india",1.0
+"costersveld 6, loppem, Belgium","costersveld 6, 8210 zedelgem, west flanders, belgium",0.758
+"Bjursätragatan 19b, Stockholm, Sweden","bjursatragatan 19b, 124 62 bandhagen, sweden",0.76
+"Ellen Keys gata 24, Stockholm, Zweden","ellen keys gata 24, 129 52 hagersten, sweden",0.746
+"Bayernstr,30A  / 23825BRO, Niedersachsen, Germany","bauernstraße 30a, 29456 hitzacker, germany",0.62
+Meda de M,"meda de mouros, coimbra, portugal",0.131
+UNKNOWN,"unknown, somali, ethiopia",0.497
+Unknown,"unknown, somali, ethiopia",0.497
+"Im Dorf 110, Hüttendorf, Austria","im dorf 110, 2165 drasenhofen, austria",0.776
+"Voreiou ipirou 15, Filothei, Greece","voreiou ipeirou street, 136 71 acharnes, greece",0.385
+"Plac Dabrowskiego 12 / 62, Warsaw, Poland","płaza, powiat chrzanowski, lesser poland voivodeship, poland",0.153
+"paseo de la plana 19b, san andreu de llavaneras, Spain","passatge de la plana 19b, 08912 badalona, barcelona, spain",0.677
+"123 Green Park Avenue, Sector 45, Gurugram, Haryana 122003, India",park avenue sector 22 rd 121005 faridabad india,0.393
+"Burgakker 15, 5281 CH Boxtel, Netherlands","burgakker 15, 5281 ch boxtel, netherlands",1.0
+"Port of Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.359
+"Rotterdam Port, Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.666
+"Rotterdam The Hague Airport, 3043 NT Rotterdam, Netherlands","rotterdam, south holland, netherlands",0.257
+Meda de Mou,"meda de mouros, coimbra, portugal",0.117
+"Rua Da Ribeira Do Patane No. 54, Macau, China","чинар, дербентскии раион, dagestan, russia",0.053
+Meda d,"meda de mouros, coimbra, portugal",0.12
+Meda de Mo,"meda de mouros, coimbra, portugal",0.234
+"Slieve Russell Staff 8, Ballyconnell, Ierland","8 ballyconnell, killinure, wicklow r93 er04, ireland",0.543
+"Porto do Rio de Janeiro, Brazil","rio de janeiro, brazil",0.15
+"Logistics Hub, City, Country","hub city place, el paso, texas 79938, united states",0.057
+"Port of Mumbai, India",part 400005 mumbai india,0.169
+10,"10, lagos, lagos, nigeria",0.03
+"Packstation 125, Konz, Duitsland","auf der konn 125, 56753 mertloch, germany",0.087

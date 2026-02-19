@@ -17,4 +17,4 @@ class AddressUpdate(BaseModel):
 
 
 class AddressesRefresh(BaseModel):
-    ids: List[int] | None
+    ids: Optional[List[int]]
