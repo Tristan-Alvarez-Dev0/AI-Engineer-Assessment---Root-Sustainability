@@ -19,8 +19,30 @@ The score supports **human review**, not full automation. Therefore,
 interpretability and conservative behavior are important.
 
 ------------------------------------------------------------------------
+## 2. Initial Exploration
 
-## 2. Structured Component Comparison
+### 2.1 Raw String Similarity (Baseline)
+
+First, I explored a naive approach:
+
+- Normalize both address strings
+- Apply fuzzy string similarity (RapidFuzz token_set_ratio)
+
+### Why this approach is insufficient:
+
+- Cannot reason about structure (house number vs city vs country)
+- Overconfident on vague inputs (e.g., `"India"` vs `"Port of Mumbai, India"`)
+- Sensitive to reordering and structural variation
+- Cannot distinguish strong vs weak signals
+
+Conclusion:  
+Raw string similarity alone is too coarse for reliable address matching.
+
+---
+
+## 3. Structured Comparison Using libpostal
+
+To improve robustness, I moved to a **component-based comparison** using:
 
 Addresses are parsed using:
 
